@@ -91,10 +91,6 @@ class Calculator{
 			}
 		else{ return print('Error with parameter func');}
 
-			// $a = array( 'retVal'=> $res );
-
-			// header('Content-Type: application/json'); 
-			// echo json_encode($a); 
 		}
 
 	 }
